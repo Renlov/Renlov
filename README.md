@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renlov&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renlov&repo=shadowlibrary)](https://github.com/renlov/shadowlibrary)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renlov&repo=shadowlibrary)](https://github.com/renlov/shadowlibrary)
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
