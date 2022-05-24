@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/Renlov/ShadowLibrary"><img width="282" src="https://github.com/Renlov/ShadowLibrary" alt="Shadow Library"></a>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renlov&repo=shadowlibrary)](https://github.com/renlov/shadowlibrary)
 </p>
 
 **languages and tools:**  
