@@ -15,6 +15,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=renlov&repo=shadowlibrary&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/renlov/shadowlibrary)
 
+[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renlov&shadowlibrary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false
+)](https://github.com/renlov/shadowlibrary)
+
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
