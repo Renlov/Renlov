@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=36&duration=3000&center=true&vCenter=true&width=800&lines=My+name+is+Denis+Pimenov;I'm+Android+Developer;2+years+commercial+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=36&duration=3000&center=true&vCenter=true&width=800&lines=My+name+is+Denis+Pimenov;I'm+Android+Developer;3+years+commercial+experience)](https://git.io/typing-svg)
 
 <a href="https://t.me/pimenov95r"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"></a>
 <a href="https://spb.hh.ru/resume/960552cdff0805a56c0039ed1f465864756a79"><img width="32px" alt="HH" title="HH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/200px-HeadHunter_logo.png"></a>
